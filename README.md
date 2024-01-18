@@ -1,2 +1,2 @@
 # CSS_Practice
-Started Practice CSS to become good developer
+Started Practicing CSS to become good developer
